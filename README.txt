@@ -18,7 +18,7 @@ Because of it, it contains the following limitations and problems (all somewhat 
 	Expected future expansion: support of Linux OS
 -The tool is only capable of analyzing Java programs.
 	Expected future expansion: capability to analyze C# programs
-	
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Terms of Use
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -44,7 +44,7 @@ Downloading:
 -Extract the contents of the ZIP file (suggested programs for that: either "WinRAR", or "WinZip").
 
 Running:
--Double-click the "Modulaser.jar" file.
+-Double-click the extracted "Modulaser.jar" file.
 	Notice: the program writes files to the same directory this .jar file is in.
 
 Usage:
