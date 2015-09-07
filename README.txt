@@ -35,21 +35,21 @@ without limitation, the development, design, manufacture or production of nuclea
 Instructions
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Generally it should all be intuitive, so you're probably better off trying things for yourself rather than reading this section.
-If anything's extremely hard to figure out in particular, please do contact me; Let me know about what needs fixing.
-
 Downloading:
 -Enter the following URL: https://github.com/PhillipKatz/Modulaser
 -Click the "Download ZIP" button
--Extract the contents of the ZIP file (suggested programs for that: either "WinRAR", or "WinZip").
+-Extract the contents of the ZIP file (suggested programs: either "WinRAR", or "WinZip").
+
 
 Running:
 -Double-click the extracted "Modulaser.jar" file.
 	Notice: the program writes files to the same directory this .jar file is in.
 
+
 Usage:
 -Initial interface:
 	1) Check the boxes you want (suggestion: leave them checked), and click the button.
+		Note: if you're not sure what the checkboxes do, hover your mouse over them to get an explanation.
 	2) Browse your computer: choose a folder which contains the project you want to analyze. It has to contain the compiled classes.
 		Notice: Modulaser would find the files needed for analysis by itself. Just make sure your chosen folder contains them, and that it won't contain other programs you don't want to analyze.
 -Graph GUI:
