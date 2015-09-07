@@ -149,4 +149,4 @@ In case the "Automate Analysis Choice" box was left unchecked:
 	7) The program would instruct you to press 4 buttons at a certain order: Click the red-marked buttons to organize the matrix into block-diagonal form. 
 	8) The matrix would reach a form in which all of its links (active cells) are organized as a diagonal that's made out of squares.
 	9) Click on "save conclusions", also "save image" if you'd like.
-	10)Read the output results in the generated save-folder (mentioned after step 4)
+	10)View the output results in the generated save-folder (mentioned after step 4)
